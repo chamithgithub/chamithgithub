@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/ff0a8b62826676bc04694007dc17e7fe1b81804120229d93085aab9953ae7e93/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f73697a653d3332267643656e7465723d747275652677696474683d373630266c696e65733d48692b2546302539462539312538422532432b49276d2b4b617665657368612b53616e64756e692b4b6f64696b6172613b494a53452d2b2546302539462539312538422532432b496e737469747574652b6f662b536f6674776172652b456e67696e656572696e67" alt="Typing SVG" data-canonical-src="Hi There 👋😛; I'm Chamith Dilshan." style="max-width: 100%;">
+Hi There 👋😛; I'm Chamith Dilshan.
 
                 🏹 I am a Software_Developer
                       And Web_designer,
@@ -7,11 +7,11 @@
  
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/4257efa6f8da3fe96446cfef80166651050a7bdd348cf8fcc8403ef7ef940d56/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a64504d65797639726e30685a4868386e392f67697068792e676966">
 
-💬 Ask me whatsapp - +94 758495060
-school`  : P/St.John's College 
-           K/Uggalboda.M.V.
-Location : Waskaduwa,Kalutara,Sri Lanka.
-hobbies  :listerning songs,watching films,video editing and photo editing
+💬 Ask me whatsapp - +94 758495060 <br>
+School  : P/St.John's College 
+           K/Uggalboda.M.V. <br>
+           Location : Waskaduwa,Kalutara,Sri Lanka. <br>
+Hobbies  :listerning songs,watching films,video editing and photo editing <br>
 
 <h3 align="left" dir="auto"><a id="user-content-languages-and-tools" class="anchor" aria-hidden="true" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><b><i>Languages and Tools:</i></b></h3>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"> </a>

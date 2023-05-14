@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chamith Dilshan</h1>
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
 <br>
+<br>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=ebbd34&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+There+I'm Chamith Dilshan From Sri Lanka;Full++Stack++Developer...;Graphic Designer...;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=ebbd34&background=EB00FF00&center=true&vCenter=true&width=600&lines=Hi+There+I'm+Chamith+Dilshan+From+Sri+Lanka;Full++Stack++Developer...;Graphic+Designer...;)
 
                 🏹 I am a Software_Developer
                       And Web_designer,

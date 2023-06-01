@@ -1,3 +1,5 @@
+![Dilshan's GitHub Banner](./assets/back.jpg)
+
 <h1 align="center">Hi 👋, I'm Chamith Dilshan</h1>
 <img align="right" alt="Coding" width="200" height="200" src="https://media.giphy.com/media/anywqD5u93KuCtpPfH/giphy.gif">
 <br>

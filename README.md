@@ -65,7 +65,7 @@
 ---
 
 ### 🌟 Portfolio
-🔗 https://chamithgithub.github.io/My_Portfolio/
+🔗 https://acdilshanportfolio.netlify.app
 
 ---
 

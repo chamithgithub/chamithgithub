@@ -3,15 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chamith%20Dilshan&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Creative Designer</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | DevOps Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎯 Passionate about **Software Development & UI Design**
+- 🎯 Passionate about **Software Development & System Design**
 - 💻 Working with **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🎨 Love **Photo Editing & Video Editing**
-- 📱 Currently learning **React Native**
+- 🐳 Exploring **Docker & DevOps Practices**
+- 📱 Learning **React Native**
+- 🎨 Love **UI Design, Photo & Video Editing**
 - 🌍 Based in **Sri Lanka**
 
 ---
@@ -19,6 +20,13 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,typescript,java,python,php,git,figma,photoshop" />
+</p>
+
+---
+
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions,aws" />
 </p>
 
 ---
@@ -39,6 +47,14 @@
 
 ---
 
+### 🚀 What I'm Working On
+- 📦 Dockerizing MERN applications
+- ⚡ CI/CD pipelines using GitHub Actions
+- ☁️ Cloud deployment (AWS / VPS)
+- 🔐 Learning system scalability & security
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/a.c. dilshan"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
@@ -53,5 +69,5 @@
 
 ---
 
-### ✨ Fun Fact
-> I turn ideas into reality using code 💡
+### ✨ Dev Quote
+> "First, make it work. Then, make it scalable. Then, automate it." ⚙️
